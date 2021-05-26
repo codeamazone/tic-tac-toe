@@ -2,7 +2,7 @@
 
 Tic Tac Toe, or Xs and Os, for two players.
 
-I programmed this game as part of the Python Developer Path by JetBrains Academy (hyperskill.org).
+I programmed this game as part of the Python Developer Path by JetBrains Academy (https://hyperskill.org).
 
 The first version was the beginners' project, the object-oriented version was part of an advanced project where you can choose between playing against the computer (easy or medium) or another user, or you could even watch the computer play against itself.
 
